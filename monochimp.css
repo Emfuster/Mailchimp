@@ -1,0 +1,18 @@
+.monkeychimp{
+    position: absolute;
+    margin-top: 150px;
+    margin-right: 100px;
+   
+
+}
+.form{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    width: 50%;
+    margin-left: 350px;
+     
+   
+}
+
+
